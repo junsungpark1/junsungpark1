@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm junsungpark
+i'm junsungpark. I'm student at digipen-game departments. Nice to meet you
 <!--
 **junsungpark1/junsungpark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
